@@ -7,18 +7,20 @@ To run test cases use following:
  ```
  mvn test
 ```
- 
+![alt text](https://github.com/julianpicon/geocode/blob/master/screenshots/mvn%20test.png)
+
 To build and run the code use following:
   
 ```
 mvn install spring-boot:run
 ```
+![alt text](https://github.com/julianpicon/geocode/blob/master/screenshots/mvn%20run.png)
 
 To call the service use following url:
  
 ```
  curl http://localhost:8080/api/geocode/Bogota
 ```
- 
+![alt text](https://github.com/julianpicon/geocode/blob/master/screenshots/test.png?raw=true) 
  
  
