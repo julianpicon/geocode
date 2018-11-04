@@ -9,6 +9,8 @@ The goal is to expose a JSON-based RESTful API, that will accept address as a si
 ```
 ![alt text](https://github.com/julianpicon/geocode/blob/master/screenshots/mvn%20test.png)
 
+![alt text](https://github.com/julianpicon/geocode/blob/master/screenshots/UnitTests.gif?raw=true)
+
 ## To build and run the code use following:
   
 ```
